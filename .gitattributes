@@ -1,3 +1,4 @@
 *.ipynb linguist-language=Python
 detector_architectures/*.* linguist-vendored
 *.xml linguist-vendored
+*.md linguist-documentation
