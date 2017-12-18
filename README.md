@@ -1,9 +1,10 @@
 ## Overview
 
 This project detects facial keypoints and let's you overlay snapchat style filters to it.
-Facial Keypoint Detection             |  Filter Overlay
-:-------------------------:|:-------------------------:
-![Facial Keypoint Detection](./images/facial_keypoint_test.gif)  |  ![Snapchat Style Overlay](./images/mr_sunglasses.gif)
+
+| Facial Keypoint Detection  | Filter Overlay |
+| ------------- | ------------- |
+| ![Facial Keypoint Detection](./images/facial_keypoint_test.gif)  | ![Snapchat Style Overlay](./images/mr_sunglasses.gif)  |
 
 ## Setup
 
