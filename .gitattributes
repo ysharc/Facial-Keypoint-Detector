@@ -1,0 +1,2 @@
+*.ipynb linguist-language=Python
+detector_architectures/* linguist-vendored
