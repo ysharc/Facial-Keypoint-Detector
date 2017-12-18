@@ -4,3 +4,4 @@ best_model.h5
 my_model.h5
 AIND-CV-FacialKeypoints.zip
 data/*.csv
+*.html
